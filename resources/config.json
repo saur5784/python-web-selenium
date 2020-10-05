@@ -1,0 +1,7 @@
+{
+  "browser": "chrome",
+  "wait_time": 10,
+  "base_url" : "https://<>.slack.com",
+  "username" : "<>",
+  "password" : "<>"
+}
