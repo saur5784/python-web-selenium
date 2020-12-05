@@ -1,7 +1,6 @@
 # Slack web client ui automation #
 
 ### Env Setup
-- Download the project zip file and unzip it
 - `cd <project_root_directory>`
 - Install [Brew](https://docs.brew.sh/Installation)
 - Install pipenv using `brew install pipenv`
